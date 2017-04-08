@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/58bec2458d522d8d698e3ba5bc8c00a3acf13aca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_9727a9e069101191ffbe586a47d6c1379375d7d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/1f8898934beded65e4d64911542b7df04be52f3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_cc9539a1f03caf6d8c9618dd066ac9efd7869f76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/b5c2e07eaf3b3cf5777c5e5066f039f482e94add/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_7a725789f15c29f120276708b6ad5a7a82ddeebc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce0e624853d83a30c932f8d6cef67ad892a6b5de">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7e6b6c78f46944c2731f2b664b35e6a73c8e87d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/7cd1e608269e2bc3bae237e1ca93860fd41e87a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_be9c48d6a202155463d29df2f89a90b1b5cbe796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/a45ab3b67c9808be4d017c07f526509c24020a5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_c18b7925a7db9c526f08ee343ccd56bb7dd47d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/aac33ea2280f679bf7906840cff937d95b251b6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_72b573d63b1704c525750e31de73a19e9acf84c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_36fbd969b803767104a6ddff7d6d35eaf628a570.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e7dbbe3bc04a8338edff6b7eddd6de41294baf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/a0d540abc89e3b8ecf6cf4ca6d9d70f8c379f618/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_89a06fa71af7b9e1d462635f92a1b4242ed85b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_d513aba43f113a40fd0136ee15c31cc9f8ca2acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/4e714c66ed2e29fbbf06b14a7511aa84b408ceca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_93178c925e3bbcdf508d678eecf1cdc30cffc903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/ec7146166cdbd2ee43c328240e0ecd0b5097201f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_97ded9c7dba34c90b2581497fae66cfb21016924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thanhvo/.android/build-cache/62ce2a4ba99b15917b2fc65798ad002c1fb4b117/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/thanhvo/AndroidStudioProjects/FinalBonus/app/build/intermediates/pre-dexed/release/classes_cf521d95cbe189f8ddd09f61106feb08797e4855.jar" />
+    </item>
+
+</items>
